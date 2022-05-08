@@ -1,1 +1,1 @@
-This a program that uses Target's API to scrape the name, brand, and price of all 73 Ground Beef items on Target's website. The data is stored in a pandas dataframe, which is the output of the program. 
+This a program that uses Target's API to scrape the name, brand, and price of all 73 Ground Beef items on Target's website. The data is stored in a pandas dataframe, which is also the output of the program. 
